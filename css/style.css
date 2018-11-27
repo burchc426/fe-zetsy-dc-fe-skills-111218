@@ -28,6 +28,8 @@ body {
 }
 .column {
   display: inline;
+  border-color: rgb(111,127,122);
+  border-width: 5px;
 }
 
 h1 {
