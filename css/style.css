@@ -17,6 +17,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+.column {
+  display: inline;
+  float: left;
+}
 #turquoise {
   margin: 0 auto;
 }
