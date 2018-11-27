@@ -30,7 +30,9 @@ body {
 }
 
 header {
-  text-family:
+  font-family:
+  font-size:100px;
+  
 }
 p {
   text-align: center;
