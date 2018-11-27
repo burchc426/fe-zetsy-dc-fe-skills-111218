@@ -30,11 +30,7 @@ body {
   display: inline;
   border-color: rgb(111,127,122);
   border-width: 1px;
-  transition: background-color 0.5s ease;
-  background-color: red;
-}
-
-.column:hover {background-color: green}
+  
 
 h1 {
   font-size:100px;
