@@ -19,6 +19,9 @@ body {
 
 #featured {
   margin: 0 auto;
+  border-style: solid;
+  border-color: grey;
+  
 }
 .column {
   display: inline;
