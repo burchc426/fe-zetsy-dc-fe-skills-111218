@@ -17,6 +17,9 @@ body {
 	padding: 0 45px 20px;
 }
 
+#featured {
+  margin: 0 auto;
+}
 .column {
   display: inline;
 }
