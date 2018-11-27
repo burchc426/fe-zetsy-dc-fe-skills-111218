@@ -21,7 +21,7 @@ body {
   margin: 0 auto;
   border-style: solid;
   border-color: grey;
-  
+  border-width: 5px;
 }
 .column {
   display: inline;
